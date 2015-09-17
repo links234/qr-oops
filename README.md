@@ -1,5 +1,5 @@
 # qr-oops
-Simple bash script for easy control of [QR Oops][1] Kernel module.
+Scripts for easy control of [QR Oops][1] Kernel module.
 
 ## License
 
