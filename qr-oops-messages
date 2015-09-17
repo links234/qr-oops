@@ -1,0 +1,2 @@
+
+echo "1" > /sys/module/kernel/parameters/qr_oops_cmd

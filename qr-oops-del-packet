@@ -1,0 +1,3 @@
+echo $1 > /sys/module/kernel/parameters/qr_oops_param0
+echo $2 > /sys/module/kernel/parameters/qr_oops_param1
+echo "4" > /sys/module/kernel/parameters/qr_oops_cmd
